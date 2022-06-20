@@ -28,4 +28,14 @@ variables are containers that hole a value
 ### rules for variable 
 1. always start with letter
   `1name = "celine" ` --> not allowed
-2. can only con
+2. can only contain numbers, letters, and underscore ( _ )` my name = "celine"--> not allowed
+3.  if more than one word use camelcase or underscores to seprate words
+
+
+
+`+` adding strings together , appendling (add to end)
+
+`hello" + "world"= "hello world
+
+## type cast"
+for
